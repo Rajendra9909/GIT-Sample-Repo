@@ -10,6 +10,12 @@ git branch - This command creates and manages branches.
 git checkout - This command switches to a different branch.
 git push - This command pushes changes from the local repository to the remote repository.
 
+Set your Git user name and email globally:
+
+git config --global user.email "your_email@example.com"
+git config --global user.name "Your Name"
+
+
 Here are some additional commands that testers may find useful:
 
 git reset - This command resets the working tree to a previous state.
