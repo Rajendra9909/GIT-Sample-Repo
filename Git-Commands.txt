@@ -1,4 +1,4 @@
-Here are some simple Git commands that a tester should know:
+Basic Git commands for QA automation.
 
 git init - This command initializes a new Git repository.
 git add - This command adds files to the staging area.
@@ -9,6 +9,7 @@ git log - This command shows the history of the repository.
 git branch - This command creates and manages branches.
 git checkout - This command switches to a different branch.
 git push - This command pushes changes from the local repository to the remote repository.
+git diff - The default output for git diff is the list of changes which have not been committed / added to the index. If there are no changes, then there is no output.
 
 Set your Git user name and email globally:
 
