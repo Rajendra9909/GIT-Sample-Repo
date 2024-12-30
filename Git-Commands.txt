@@ -1,0 +1,18 @@
+Here are some simple Git commands that a tester should know:
+
+git init - This command initializes a new Git repository.
+git add - This command adds files to the staging area.
+git commit - This command commits the changes in the staging area to the local repository.
+git status - This command shows the status of the working tree and the staging area.
+git diff - This command shows the difference between the working tree and the staging area, or between two commits.
+git log - This command shows the history of the repository.
+git branch - This command creates and manages branches.
+git checkout - This command switches to a different branch.
+git push - This command pushes changes from the local repository to the remote repository.
+
+Here are some additional commands that testers may find useful:
+
+git reset - This command resets the working tree to a previous state.
+git revert - This command reverts a commit.
+git stash - This command temporarily stores changes to the working tree.
+git cherry-pick - This command applies a commit from one branch to another.
