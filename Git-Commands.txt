@@ -23,3 +23,8 @@ git reset - This command resets the working tree to a previous state.
 git revert - This command reverts a commit.
 git stash - This command temporarily stores changes to the working tree.
 git cherry-pick - This command applies a commit from one branch to another.
+
+Basic Branching
+First, let’s say you’re working on your project and have a couple of commits already on the master branch.
+
+A simple commit history
