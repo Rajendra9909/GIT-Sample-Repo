@@ -24,11 +24,10 @@ git revert - This command reverts a commit.
 git stash - This command temporarily stores changes to the working tree.
 git cherry-pick - This command applies a commit from one branch to another.
 
+Basic Branching
+First, let’s say you’re working on your project and have a couple of commits already on the master branch.
 
-
-
-
-
+A simple commit history
 
 Figure 18. A simple commit history
 You’ve decided that you’re going to work on issue #53 in whatever issue-tracking system your company uses. To create a new branch and switch to it at the same time, you can run the git checkout command with the -b switch:
